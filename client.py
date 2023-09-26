@@ -11,7 +11,7 @@ from random import random
 import hashlib
 
 
-
+# This is a github test
 class View:
     def __init__(self, view_number, num_nodes):
         self._view_number = view_number
